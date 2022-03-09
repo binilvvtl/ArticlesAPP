@@ -7,6 +7,7 @@
 
 import Foundation
 
+// Replace this key value with your own key
 let apiKey = ""
 
 enum sourceURLType {
