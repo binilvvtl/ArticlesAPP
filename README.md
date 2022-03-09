@@ -4,6 +4,8 @@ The ArticlesAPP is a simple example app not a “real-world” application.
 
 It is a simple article listing app where most viewd articles are retrieved from the New York Times API.
 
+App supports Dark mode.
+
 ---
 # Requirements
 
