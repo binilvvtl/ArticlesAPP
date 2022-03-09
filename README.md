@@ -20,7 +20,7 @@ App supports Dark mode.
 1. Clone this repo
 1. Open `ArtilcesAPP.xcodeproj`
 1. Open `SourceURL.swift` and Replace The API Key value with your API Key value created in [New York Times API](https://developer.nytimes.com)
-1. run the project on selected device or simulator
+1. Run the project on selected device or simulator
 
 # Tests
 
