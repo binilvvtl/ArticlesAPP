@@ -1,0 +1,36 @@
+/* 
+  Localizable.strings
+  ArtilcesAPP
+
+  Created by Binil V on 09/03/22.
+  
+*/
+
+//Network handle
+"Invalid Data" = "Invalid Data";
+"Request Failed" = "Request Failed";
+"JSON Conversion Failure" = "JSON Conversion Failure";
+"JSON Parsing Failure" = "JSON Parsing Failure";
+"Response Unsuccessful" = "Response Unsuccessful";
+"Invalid Request" = "Invalid Request";
+"Resource timed out" = "Resource timed out";
+"Not connected to internet" = "Not connected to internet";
+"Server Error (Code 400)" = "Server Error (Code 400)";
+"Not authorized (Code 401)" = "Not authorized (Code 401)";
+"Resource forbidden (Code 403)" = "Resource forbidden (Code 403)";
+"Resource not found (Code 404)" = "Resource not found (Code 404)";
+"Bad gateway (Code 501)" = "Bad gateway (Code 501)";
+"Service unavailable (Code 503)" = "Service unavailable (Code 503)";
+"Server Error (Code 500)" = "Server Error (Code 500)";
+"Some error occurred. Please try again" = "Some error occurred. Please try again";
+"Reset_Password_Successful" = "Reset password successful";
+"Account_Already_Exists" = "Account already exists";
+"sessionExpired" = "Session Expired";
+
+// UIComponents
+"searchArticle" = "Search Articles";
+"error" = "Error";
+"somethingWentWrong" = "Something Went Wrong, Please try again!!!";
+"somethingWentWrongWithLater" = "Something Went Wrong, Please try again later!!!";
+"Okay" = "Okay";
+"Cancel" = "Cancel";
