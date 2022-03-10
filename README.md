@@ -30,6 +30,10 @@ __DISCLAIMER: This sample app has unit test case written only for viewmodel clas
 
 ---
 
+# Dependency Manager 
+- SPM
+
+---
 # Library Used
 
 - SDWebImage
